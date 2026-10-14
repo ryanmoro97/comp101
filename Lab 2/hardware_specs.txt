@@ -1,0 +1,6 @@
+Computer Type: MacBook Pro
+CPU: 1.4 GHz Quad-Core Intel Core i5
+Memory: 16 GB 2133 MHz LPDDR3
+OS: Sonoma 14.3.1
+HD: Macintosh HD 500GB
+Display Resolution: 2560 x 1600
